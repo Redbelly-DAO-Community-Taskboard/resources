@@ -21,7 +21,7 @@ Step-by-step guide to getting set up on the Redbelly Testnet: adding the network
 
 ```bash
 # Clone this repo
-git clone https://github.com/redbelly-dao/resources.git
+git clone https://github.com/Redbelly-DAO-Community-Taskboard/resources.git
 
 # Hardhat starter
 cd resources/hardhat-starter
@@ -41,8 +41,8 @@ npx hardhat run scripts/deploy.js --network redbelly-testnet
 |-----------|-------|
 | Network Name | Redbelly Testnet |
 | Chain ID | 153 |
-| RPC URL | `https://rpc-testnet.redbelly.network` |
-| Block Explorer | `https://explorer.testnet.redbelly.network` |
+| RPC URL | `https://governors.testnet.redbelly.network` |
+| Block Explorer | `https://redbelly.testnet.routescan.io` |
 | Currency Symbol | RBNT |
 
 ---
